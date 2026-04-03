@@ -3,43 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Finance Tracker - Panduan</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 16px;
-      color: #333;
-    }
-    h1, h2 {
-      color: #1a7a3c;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 12px 0;
-    }
-    table, th, td {
-      border: 1px solid #ddd;
-    }
-    th, td {
-      padding: 10px;
-      text-align: left;
-    }
-    th {
-      background-color: #f5f5f5;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 4px 6px;
-      border-radius: 4px;
-    }
-    .section {
-      margin-bottom: 32px;
-    }
-  </style>
+
 </head>
 <body>
 
