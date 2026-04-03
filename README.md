@@ -26,7 +26,7 @@
   <div class="section">
     <h2>2. Persiapan Spreadsheet</h2>
     <p>Buat Google Spreadsheet dan buat sheet dengan nama berikut (harus sama persis):</p>
-    <code>Data Keuangan</code>
+    <code>Data Keuangan (INI ADALAH NAMA TAB SHEET NB:BESAR KECIL HARUS SAMA)</code>
 
     <p><strong>Struktur Kolom (harus sesuai urutan):</strong></p>
     <table>
